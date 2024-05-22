@@ -16,3 +16,11 @@ const num2 = 7;
 sumTwoNumbers(num1, num2);
 
 ```
+Skills
+- [x] MongoDB
+- [x] Nodejs
+- [x] React
+- [x] Expressjs
+- [x] Python 
+- [x] Django
+- [ ] Golang
